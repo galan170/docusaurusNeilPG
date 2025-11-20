@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_neil_pg=globalThis.webpackChunkdocusaurus_neil_pg||[]).push([[954],{2985:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/docusaurusNeilPG/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
