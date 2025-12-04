@@ -96,12 +96,25 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+        
+          {
+            to: '/benvinguda-NeilPG',
+            label: 'Benvinguda',
+            position: 'left',
+          },
+          {
+            to: '/desplegaments-neil',
+            label: 'Desplegaments',
+            position: 'left',
+          },
+        
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
         ],
+        
       },
       footer: {
         style: 'dark',
